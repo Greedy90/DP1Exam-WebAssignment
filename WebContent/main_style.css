@@ -1,0 +1,52 @@
+@CHARSET "ISO-8859-1";
+.page {
+	width:70%;
+	margin:0 auto;
+	font-family:Tahoma;
+	font-variant:small-caps;
+	font-size:14px;
+	line-height:20px;
+}
+
+.header {
+	text-align:center;
+	color:#ff9900;
+	border:solid;
+	border-radius:10px;
+	margin-bottom:10px;
+}
+
+.navigator_bar {
+	float:left;
+	width:20%;
+	margin-right:5px;
+}
+
+.central_part {
+	float:right;
+	clear:right;
+	width:75%;
+	margin-left:5px;
+}
+
+.borders {
+	margin:10px;
+}
+
+#pic {
+	text-align:center;
+	max-width:100%;
+	height:auto;
+}
+
+td,th {
+  text-align:center;
+  border-bottom:1px solid #cccccc;
+}
+
+button {
+	font-family:Tahoma;
+	font-variant:small-caps;
+	font-size:10px;
+	color:#000000;
+}
